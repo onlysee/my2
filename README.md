@@ -4,6 +4,11 @@
 
 fuck what/？
 
-second
-
-
+second  
+ ```python
+ class A:
+    def b(self,other):
+        print(self.other)  
+```
+        
+  
