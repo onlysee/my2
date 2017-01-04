@@ -5,5 +5,5 @@ fuck what/？
 class Ati:
   def __init__(self,other):
     self.data = other
-  def show():
+  def show(self):
     print(self.data)
